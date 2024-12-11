@@ -70,6 +70,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'discord_auth.wsgi.application'
 
 
+
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
